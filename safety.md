@@ -9,7 +9,7 @@ Nothing on this page is optional. Safety is the first of the league's three prio
 
 ## Before the Season
 
-- **Background check** — every coach completes a simple online form; it stays valid for multiple seasons. Your commissioner sends the link.
+- **Background check** — every coach completes a [simple online form](https://opportunities.averity.com/opportunity/26881); it stays valid for multiple seasons. Your commissioner sends the link.
 - **Concussion training** — coaches receive a link to a **required digital training course on concussions**. Complete it before the season starts.
 
 ## First Aid
