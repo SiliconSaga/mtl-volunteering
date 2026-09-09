@@ -31,6 +31,17 @@ A lopsided game isn't fun for anyone — including the team that's winning. Ways
 
 > **Coordinator input needed:** any sport-specific balancing rules already in use (e.g. draft/assignment practices, mercy conventions per sport) so this page reflects actual league practice, not just principles.
 
+## The 24-Hour Rule
+
+Emotions may run high right after a game or practice, and kids tend to pick up on adult tension faster than adults do. Like many youth leagues across the country, MTL asks everyone on the sideline to follow a simple **24-hour rule**:
+
+- **If you disagree with a coaching decision, give it a day before raising it.** Once 24 hours have passed since the game or practice, reach out to the coach or team manager and talk it through, away from the kids. Many concerns look different after a night's sleep, and the ones that don't deserve a calmer conversation than a sideline allows.
+- **Referees are not approached about a call — not by parents, not by coaches, not at any time.** Our referees are volunteers too, many of them young, and they're learning alongside the players. If you believe a game was officiated in a way the league should hear about, email your sport's mailbox or use the [league contact form](https://mountaintopleague.com/contact-us/) and the trustees will follow up.
+
+A few things worth keeping in mind: every coach here is a volunteer, and many are barely more than another parent who was handed a bag of gear and a schedule. They're learning and improving week by week, just like the players, and their job is to make decisions for the whole team — while from the sideline we naturally see those decisions through our own child first. And most kids aren't aware there was a problem at all until an adult brings it up, so a quiet word later usually beats a heated one now.
+
+**Coaches, the rule protects you too.** If a parent approaches you right after a game, it's fine to say "let's talk tomorrow" and mean it kindly. It applies to us as well: coaches don't approach referees about calls either.
+
 ## When Something Goes Wrong
 
-Any parent, player, coach, or referee issue must be reported to your sport's league mailbox (see the [home page]({{ site.baseurl }}/)) — concerns are handled by the MTL Trustees. Don't let a sideline problem fester until it boils over on a Saturday.
+Any parent, player, coach, or referee issue must be reported to your sport's league mailbox (see the [home page]({{ site.baseurl }}/)) or through the [league contact form](https://mountaintopleague.com/contact-us/) — concerns are handled by the MTL Trustees. Don't let a sideline problem fester until it boils over on a Saturday.
