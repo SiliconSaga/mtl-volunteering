@@ -1,0 +1,18 @@
+{
+  "changed": [
+    "/",
+    "/sportsmanship/"
+  ],
+  "added": [],
+  "removed": [],
+  "groups": [
+    {
+      "exemplar": "/",
+      "identical": []
+    },
+    {
+      "exemplar": "/sportsmanship/",
+      "identical": []
+    }
+  ]
+}
