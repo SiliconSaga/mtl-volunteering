@@ -18,7 +18,7 @@ The Mountain Top League is **run entirely by volunteers** — every coach, commi
   </a>
   <a href="{{ site.baseurl }}/sportsmanship/" class="picker-card">
     Sportsmanship
-    <small>Setting the tone &middot; balanced teams</small>
+    <small>Setting the tone &middot; balanced teams &middot; the 24-hour rule</small>
   </a>
   <a href="{{ site.baseurl }}/safety/" class="picker-card">
     Safety
