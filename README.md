@@ -6,7 +6,7 @@ The cross-sport volunteer guide for the **Mountain Top League** (West Orange, NJ
 > *"Add the AED location at O'Connor Park."* · *"Update the team-bag pickup window."* · *"Document how field gear gets set up at Stagg."*
 > Then look over the PR it opens — every PR automatically gets a **preview site link and a visual diff** so you can see exactly what changes before it goes live.
 
-No agent handy? Every page on the live site has a **Suggest an edit** button (desktop only) that opens that page's file in GitHub's editor — the change comes back as a PR for the league to review, same as above.
+No agent handy? Every page on the live site has a **Suggest an edit** button (on tablet-width screens and up) that opens that page's file in GitHub's editor — the change comes back as a PR for the league to review, same as above.
 
 Several sections are marked **"Coordinator input needed"** — they're the point of this site. If you know how something actually works, that knowledge belongs here instead of in word of mouth.
 
